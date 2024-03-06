@@ -1,0 +1,1 @@
+For proj2, it was supposed to be work from me and another group member, however, they backed out on the last day so this project is unfinished, however, I was able to correctly implement an adjacent matrix and store data on the edges on the graph.
